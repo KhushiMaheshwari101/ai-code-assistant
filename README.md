@@ -2,28 +2,33 @@
 
 > A real-time AI-powered coding assistant that helps you write better code — instantly!
 
-🔗 **Live Demo:** [Click here to try it!]
+ **Live Demo:** [Click here to try it!]
 (https://ai-code-assistant-ynkycvexwue7sn5hnjt2sp.streamlit.app/)
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 AI Code Assistant is a web-based tool that acts as your personal coding companion. Just write your code and let the AI suggest improvements, find bugs, complete incomplete code, and answer your coding questions — all in real time.
+ **Hinglish Support** — The AI responds in **Hinglish (Hindi + English mix)** to make the interaction feel more natural, friendly, and comfortable — especially for Indian developers. No more robotic responses, just a helpful coding buddy that talks like a friend! 
+ 
+
+
+##  Features
+
+-  **Smart Suggestions** — Get instant AI-powered code improvement recommendations
+-  **Error Detection** — Identifies bugs, warnings, and logical mistakes with line numbers
+-  **Code Completion** — Automatically completes your incomplete code
+-  **AI Chat** — Ask anything about your code and get clear explanations
+-  **Multi-language Support** — Works with Python, JavaScript, Java, C++, TypeScript, and more
+-  **Hinglish Responses** — AI explains in Hindi + English mix for a friendly, relatable experience
+
 
 ---
 
-## ✨ Features
 
-- 💡 **Smart Suggestions** — Get instant AI-powered code improvement recommendations
-- 🐛 **Error Detection** — Identifies bugs, warnings, and logical mistakes with line numbers
-- ✅ **Code Completion** — Automatically completes your incomplete code
-- 💬 **AI Chat** — Ask anything about your code and get clear explanations
-- 🌐 **Multi-language Support** — Works with Python, JavaScript, Java, C++, TypeScript, and more
 
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -34,7 +39,7 @@ AI Code Assistant is a web-based tool that acts as your personal coding companio
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-code-assistant/
@@ -81,7 +86,7 @@ Open your browser and go to `http://localhost:8501` 🎉
 
 ---
 
-## ☁️ Deployment
+##  Deployment
 
 This project is deployed on **Streamlit Cloud** (free tier).
 
@@ -95,25 +100,29 @@ To deploy your own instance:
 
 ---
 
-## 📸 Screenshots
+##  Demoshots
 
-> *(Add screenshots of your app here)*
+
+> <img width="1880" height="1036" alt="image" src="https://github.com/user-attachments/assets/2c7041cd-0792-4d22-9a46-e19ab63584c5" />
+<img width="1791" height="984" alt="image" src="https://github.com/user-attachments/assets/e93e227c-e12b-4f30-8818-a273fbbb0226" />
+
+
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to open a [GitHub Issue](https://github.com/KhushiMaheshwari101/ai-code-assistant/issues).
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Khushi Maheshwari**
 
